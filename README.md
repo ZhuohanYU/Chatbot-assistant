@@ -1,4 +1,4 @@
-# Chatbot-assistant
+# LLM Chatbot-assistant
 create a chatbot assist for online purchase using Gpt-neo -1.3b
 Development Plan:
 
